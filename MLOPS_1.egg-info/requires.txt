@@ -1,6 +1,6 @@
 pandas
 numpy
-google-cloud-storage 
+google-cloud-storage
 scikit-learn
 pyyaml
 imbalanced-learn
